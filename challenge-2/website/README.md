@@ -6,7 +6,7 @@ whenever the page is re-rendered due to the asychronous nature of react.
 *Created with React (using create-react-app, did not manually install 
 dependencies) and used axios to call the API. 
 
-___Strong emphasized text___ Main code can be found in the src folder under App.js
+Main code can be found in the src folder under App.js
 
 #### How to run ####
 Under the appropriate directory, run "npm start"
